@@ -1,0 +1,6 @@
+El usuario debe ingresar:
+Nombre
+Apellido
+Nickname
+Email
+Ademas debe ingresar un validador de una imagen para evitar robots que se registren.

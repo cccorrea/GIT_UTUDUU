@@ -1,0 +1,19 @@
+inicio
+	posicion: 5,10
+	width: 65
+	height: 35
+
+Procesos
+	posicion: 99,32
+	width: 65
+	height: 35
+
+Actividades
+	posicion: 199,3
+	width: 65
+	height: 35
+
+Comunidad
+	posicion: 199,55
+	width: 65
+	height: 35

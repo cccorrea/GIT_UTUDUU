@@ -1,0 +1,390 @@
+body 
+{
+ margin-top: 0px;
+ margin-right: auto;
+ margin-bottom: 0px;
+ margin-left: auto;
+}
+
+div#barrasharkflap 
+{
+ background-color: #2F9DBA;
+ background-image: none;
+ background-repeat: repeat;
+ background-attachment: scroll;
+ background-position: 0%;
+ height: 20px;
+ margin: 0pt;
+ padding-top: 0px;
+ padding-right: 0pt;
+ padding-bottom: 0pt;
+ padding-left: 0pt;
+ text-align: center;
+}
+
+div#barrasharkflap p 
+{
+ color: #FDFBF8;
+ font-family: Georgia,"Times New Roman",Times,serif;
+ font-size: 8pt;
+ font-size-adjust: none;
+ font-stretch: normal;
+ font-style: normal;
+ font-variant: normal;
+ font-weight: normal;
+ line-height: normal;
+ margin-top: 0px;
+ margin-right: auto;
+ margin-bottom: 0px;
+ margin-left: auto;
+}
+
+div#TITULO 
+{
+ height: 180px;
+ margin: 0px;
+ padding: 0px;
+}
+
+div#logo 
+{
+ background-image: url("../imagenes/logo_utuduu_principal2.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 180px;
+ margin: 0px;
+ padding: 0px;
+ width: 62%;
+ float: left;
+}
+
+div#malla 
+{
+ background-image: url("../imagenes/flujo_principal.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 180px;
+ margin: 0px;
+ padding: 0px;
+ float: left;
+ width: 38%;
+}
+
+div#MAIN 
+{
+ height: 500;
+}
+
+div#uno 
+{
+ margin-top: 0;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 5;
+ background-color: #F48727;
+ width: 24%;
+ float: left;
+}
+
+div#contuno 
+{
+ height: 120px;
+ width: 150px;
+}
+
+b.unotop, b.unobottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.unotop b, b.unobottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #F48727;
+}
+
+b.uno1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.uno2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.uno3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.unotop b.uno4, b.unobottom b.uno4 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}
+
+div#flecha1 
+{
+ background-image: url("../imagenes/flecha_azul.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 52px;
+ width: 5%;
+ margin: 0px;
+ padding: 0px;
+ float: left;
+ margin-top: 43px;
+}
+
+div#dos 
+{
+ margin-top: 0;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 5;
+ background-color: #2F9DBA;
+ width: 33%;
+ float: left;
+}
+
+div#contdos 
+{
+ height: 120px;
+ width: 150px;
+}
+
+b.dostop, b.dosbottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.dostop b, b.dosbottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #2F9DBA;
+}
+
+b.dos1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.dos2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.dos3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.dostop b.dos4, b.dosbottom b.dos4 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}
+
+div#flecha2 
+{
+ background-image: url("../imagenes/flecha_azul.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 52px;
+ width: 5%;
+ margin: 0px;
+ padding: 0px;
+ float: left;
+ margin-top: 43px;
+}
+
+div#tres 
+{
+ margin-top: 0;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 5;
+ background-color: #86A93D;
+ width: 24%;
+ float: left;
+}
+
+div#conttres 
+{
+ height: 120px;
+ width: 150px;
+}
+
+b.trestop, b.tresbottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.trestop b, b.tresbottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #86A93D;
+}
+
+b.tres1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.tres2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.tres3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.trestop b.tres4, b.tresbottom b.tres4 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}
+
+div#contenido1 
+{
+ width: 69%;
+ float: left;
+}
+
+div#espacio 
+{
+ margin-left: 5;
+ height: 150px;
+ background-color: white;
+}
+
+div#contenido2 
+{
+ width: 29%;
+ float: left;
+}
+
+div#flecha3 
+{
+ background-image: url("../imagenes/flecha_azul_abajo.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 52px;
+ width: 52px;
+ margin: 0px;
+ padding: 0px;
+ float: left;
+ margin-left: 19%;
+}
+
+div#cuatro 
+{
+ margin-top: 0;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 5;
+ background-color: #BE3835;
+ width: 83%;
+ float: left;
+}
+
+div#contcuatro 
+{
+ height: 120px;
+ width: 150px;
+}
+
+b.cuatrotop, b.cuatrobottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.cuatrotop b, b.cuatrobottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #BE3835;
+}
+
+b.cuatro1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.cuatro2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.cuatro3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.cuatrotop b.cuatro4, b.cuatrobottom b.cuatro4 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}

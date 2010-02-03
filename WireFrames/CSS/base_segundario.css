@@ -1,0 +1,202 @@
+body 
+{
+ margin-top: 0px;
+ margin-right: auto;
+ margin-bottom: 0px;
+ margin-left: auto;
+}
+
+div#barrasharkflap 
+{
+ background-color: #2F9DBA;
+ background-image: none;
+ background-repeat: repeat;
+ background-attachment: scroll;
+ background-position: 0%;
+ height: 20px;
+ margin: 0pt;
+ padding-top: 0px;
+ padding-right: 0pt;
+ padding-bottom: 0pt;
+ padding-left: 0pt;
+ text-align: center;
+}
+
+div#barrasharkflap p 
+{
+ color: #FDFBF8;
+ font-family: Georgia,"Times New Roman",Times,serif;
+ font-size: 8pt;
+ font-size-adjust: none;
+ font-stretch: normal;
+ font-style: normal;
+ font-variant: normal;
+ font-weight: normal;
+ line-height: normal;
+ margin-top: 0px;
+ margin-right: auto;
+ margin-bottom: 0px;
+ margin-left: auto;
+}
+
+div#TITULO 
+{
+ height: 125px;
+ padding: 0px;
+ position: relative;
+}
+
+div#logo 
+{
+ background-image: url("../imagenes/logo_utuduu_segundario2.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 125px;
+ margin: 0px;
+ padding: 0px;
+ width: 35%;
+ float: left;
+}
+
+div#malla 
+{
+ background-image: url("../imagenes/flujo_segundario.png");
+ background-position: top left;
+ background-repeat: no-repeat;
+ height: 125px;
+ width: 28%;
+ margin: 0px;
+ padding: 0px;
+ float: left;
+}
+
+#malla a 
+{
+ text-decoration: none;
+}
+
+a#inicio 
+{
+ /* INICIO Link */
+
+ float: left;
+ position: absolute;
+ width: 65px;
+ height: 35px;
+ margin-left: 5px;
+ margin-top: 10px;
+}
+
+a#proceso 
+{
+ /* PROCESO Link */
+
+ float: left;
+ position: absolute;
+ width: 65px;
+ height: 35px;
+ margin-left: 99px;
+ margin-top: 32px;
+}
+
+a#actividad 
+{
+ /* ACTIVIDAD Link */
+
+ float: left;
+ position: absolute;
+ width: 65px;
+ height: 35px;
+ margin-left: 199px;
+ margin-top: 3px;
+}
+
+a#comunidad 
+{
+ /* COMUNIDAD Link */
+
+ float: left;
+ position: absolute;
+ width: 65px;
+ height: 35px;
+ margin-left: 199px;
+ margin-top: 55px;
+}
+
+.hide 
+{
+ visibility: hidden;
+}
+
+div#menu 
+{
+ height: 90px;
+ width: 34%;
+ margin: 0px;
+ padding: 0px;
+ float: left;
+ margin-top: 3;
+ margin-right: 1%;
+ margin-bottom: 0;
+ margin-left: 1%;
+ background-color: #C3D9FF;
+}
+
+div#contmenu 
+{
+ height: 80px;
+ margin-right: 4px;
+ margin-left: 4px;
+}
+
+b.menutop, b.menubottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.menutop b, b.menubottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #C3D9FF;
+}
+
+b.menu1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.menu2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.menu3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.menutop b.menu4, b.menubottom b.menu4 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}
+
+div#MAIN 
+{
+ height: 500px;
+}

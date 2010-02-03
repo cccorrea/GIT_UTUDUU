@@ -1,0 +1,64 @@
+div#datos1 
+{
+ margin-top: 0;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 15;
+ background-color: #F48727;
+ width: 95%;
+ float: left;
+}
+
+div#contdatos1 
+{
+ height: 120px;
+ width: 95%;
+ padding: 5px;
+}
+
+b.datos1top, b.datos1bottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.datos1top b, b.datos1bottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #F48727;
+}
+
+b.datos11 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.datos12 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.datos13 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.datos1top b.datos14, b.datos1bottom b.datos14 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}

@@ -48,7 +48,7 @@ div#TITULO
 
 div#logo 
 {
- background-image: url("../imagenes/logo_utuduu_principal2.png");
+ background-image: url("../imagenes/logo_utuduu_principal.png");
  background-position: top left;
  background-repeat: no-repeat;
  height: 180px;
@@ -60,7 +60,7 @@ div#logo
 
 div#malla 
 {
- background-image: url("../imagenes/flujo_principal2.png");
+ background-image: url("../imagenes/flujo_principal.png");
  background-position: top left;
  background-repeat: no-repeat;
  height: 180px;
@@ -74,7 +74,6 @@ div#MAIN
 {
  height: 500;
 }
-
 
 div#tres 
 {

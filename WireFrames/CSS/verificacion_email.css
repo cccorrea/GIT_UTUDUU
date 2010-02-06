@@ -63,39 +63,39 @@ b.datos1top b.datos14, b.datos1bottom b.datos14
  height: 2px;
 }
 
-div#captcha 
+div#datos1 
 {
- margin-top: 17;
+ margin-top: 0;
  margin-right: 5;
  margin-bottom: 0;
  margin-left: 15;
- background-color: #F48727;
+ background-color: #2F9DBA;
  width: 95%;
  float: left;
 }
 
-div#contcaptcha 
+div#contdatos1 
 {
  height: 120px;
  width: 95%;
  padding-left: 10px;
 }
 
-b.captchatop, b.captchabottom 
+b.datos1top, b.datos1bottom 
 {
  display: block;
  background-color: #FFF;
 }
 
-b.captchatop b, b.captchabottom b 
+b.datos1top b, b.datos1bottom b 
 {
  display: block;
  height: 1px;
  overflow: hidden;
- background-color: #F48727;
+ background-color: #2F9DBA;
 }
 
-b.captcha1 
+b.datos11 
 {
  margin-top: 0;
  margin-right: 5px;
@@ -103,7 +103,7 @@ b.captcha1
  margin-left: 5px;
 }
 
-b.captcha2 
+b.datos12 
 {
  margin-top: 0;
  margin-right: 3px;
@@ -111,7 +111,7 @@ b.captcha2
  margin-left: 3px;
 }
 
-b.captcha3 
+b.datos13 
 {
  margin-top: 0;
  margin-right: 2px;
@@ -119,7 +119,7 @@ b.captcha3
  margin-left: 2px;
 }
 
-b.captchatop b.captcha4, b.captchabottom b.captcha4 
+b.datos1top b.datos14, b.datos1bottom b.datos14 
 {
  margin-top: 0;
  margin-right: 1px;

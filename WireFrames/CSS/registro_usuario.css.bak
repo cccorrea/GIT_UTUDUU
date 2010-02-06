@@ -4,7 +4,7 @@ div#datos1
  margin-right: 5;
  margin-bottom: 0;
  margin-left: 15;
- background-color: #F48727;
+ background-color: #2F9DBA;
  width: 95%;
  float: left;
 }
@@ -13,7 +13,7 @@ div#contdatos1
 {
  height: 120px;
  width: 95%;
- padding: 5px;
+ padding-left: 10px;
 }
 
 b.datos1top, b.datos1bottom 
@@ -27,7 +27,7 @@ b.datos1top b, b.datos1bottom b
  display: block;
  height: 1px;
  overflow: hidden;
- background-color: #F48727;
+ background-color: #2F9DBA;
 }
 
 b.datos11 
@@ -55,6 +55,71 @@ b.datos13
 }
 
 b.datos1top b.datos14, b.datos1bottom b.datos14 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}
+
+div#captcha 
+{
+ margin-top: 12;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 15;
+ background-color: #F48727;
+ width: 95%;
+ float: left;
+}
+
+div#contcaptcha 
+{
+ height: 120px;
+ width: 95%;
+ padding-left: 10px;
+}
+
+b.captchatop, b.captchabottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.captchatop b, b.captchabottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #F48727;
+}
+
+b.captcha1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.captcha2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.captcha3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.captchatop b.captcha4, b.captchabottom b.captcha4 
 {
  margin-top: 0;
  margin-right: 1px;

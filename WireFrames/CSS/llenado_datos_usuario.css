@@ -1,3 +1,9 @@
+div#contenido1 
+{
+ width: 69%;
+ float: left;
+}
+
 div#datos1 
 {
  margin-top: 0;
@@ -63,7 +69,7 @@ b.datos1top b.datos14, b.datos1bottom b.datos14
  height: 2px;
 }
 
-div#captcha 
+div#datos2 
 {
  margin-top: 17;
  margin-right: 5;
@@ -74,20 +80,20 @@ div#captcha
  float: left;
 }
 
-div#contcaptcha 
+div#contdatos2 
 {
  height: 120px;
  width: 95%;
  padding-left: 10px;
 }
 
-b.captchatop, b.captchabottom 
+b.datos2top, b.datos2bottom 
 {
  display: block;
  background-color: #FFF;
 }
 
-b.captchatop b, b.captchabottom b 
+b.datos2top b, b.datos2bottom b 
 {
  display: block;
  height: 1px;
@@ -95,7 +101,7 @@ b.captchatop b, b.captchabottom b
  background-color: #F48727;
 }
 
-b.captcha1 
+b.datos21 
 {
  margin-top: 0;
  margin-right: 5px;
@@ -103,7 +109,7 @@ b.captcha1
  margin-left: 5px;
 }
 
-b.captcha2 
+b.datos22 
 {
  margin-top: 0;
  margin-right: 3px;
@@ -111,7 +117,7 @@ b.captcha2
  margin-left: 3px;
 }
 
-b.captcha3 
+b.datos23 
 {
  margin-top: 0;
  margin-right: 2px;
@@ -119,7 +125,77 @@ b.captcha3
  margin-left: 2px;
 }
 
-b.captchatop b.captcha4, b.captchabottom b.captcha4 
+b.datos2top b.datos24, b.datos2bottom b.datos24 
+{
+ margin-top: 0;
+ margin-right: 1px;
+ margin-bottom: 0;
+ margin-left: 1px;
+ height: 2px;
+}
+
+div#contenido2 
+{
+ width: 29%;
+ float: left;
+}
+
+div#tres 
+{
+ margin-top: 0;
+ margin-right: 5;
+ margin-bottom: 0;
+ margin-left: 5;
+ background-color: #86A93D;
+ width: 83%;
+ float: left;
+}
+
+div#conttres 
+{
+ height: 220px;
+ width: 150px;
+}
+
+b.trestop, b.tresbottom 
+{
+ display: block;
+ background-color: #FFF;
+}
+
+b.trestop b, b.tresbottom b 
+{
+ display: block;
+ height: 1px;
+ overflow: hidden;
+ background-color: #86A93D;
+}
+
+b.tres1 
+{
+ margin-top: 0;
+ margin-right: 5px;
+ margin-bottom: 0;
+ margin-left: 5px;
+}
+
+b.tres2 
+{
+ margin-top: 0;
+ margin-right: 3px;
+ margin-bottom: 0;
+ margin-left: 3px;
+}
+
+b.tres3 
+{
+ margin-top: 0;
+ margin-right: 2px;
+ margin-bottom: 0;
+ margin-left: 2px;
+}
+
+b.trestop b.tres4, b.tresbottom b.tres4 
 {
  margin-top: 0;
  margin-right: 1px;
